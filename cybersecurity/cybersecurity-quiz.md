@@ -148,9 +148,9 @@ A rainbow table attack is a more efficient and effective way of cracking many ha
 #### Q20. You have configured audit settings in your organization's cloud services in the event of a security incident. What type of security control is an audit trail?
 
 - [ ] preventive control
-- [ ] detective control
+- [x] detective control
 - [ ] directive control
-- [x] corrective control
+- [ ] corrective control
 
 #### Q21. What is the name for a short-term interruption in electrical power supply?
 
